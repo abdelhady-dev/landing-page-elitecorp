@@ -1,0 +1,86 @@
+/*
+ theme name: elitecorp
+ theme coder: Abdelhady
+ PSD designer:
+ first color: 000
+ second color: 666
+*/
+.upper-bar,
+.Pricing-Table .active .card-body button,
+.why-choose-us,
+.you-think button:hover {
+  background-color: #000;
+}
+
+.slider h1 span,
+.features i,
+.overview button,
+.featured-work ul .active,
+.featured-work ul li:hover,
+.testimonial a .icon:hover,
+.Pricing-Table .active .card-body div,
+.Pricing-Table .card-body button,
+.why-choose-us .text button,
+.you-think,
+.you-think button,
+.option-box i,
+.scroll-button i {
+  background-color: #666;
+}
+
+.featured-work ul li,
+.Pricing-Table .active .card-body button,
+.you-think button:hover {
+  border: 1px solid #000;
+}
+
+.upper-bar .get-quote,
+.overview button,
+.featured-work ul .active,
+.featured-work ul li:hover,
+.featured-work .shuffle-images .row .col-lg .overlay button,
+.Pricing-Table .card-body button,
+.why-choose-us .text button,
+.option-box .option {
+  border: 1px solid #666;
+}
+
+.testimonial a .icon:hover {
+    border: 10px solid #666;
+}
+
+.navbar .navbar-brand span:first-child,
+.navbar-light .navbar-nav .nav-link,
+.features h3,
+.featured-work ul li,
+.latest-post .row .card-body h5,
+.Pricing-Table .card-body h4,
+.Pricing-Table .card-body div,
+.achevement,
+.contact .elitecorp .contact-brand span:first-child,
+.contact .elitecorp a:last-child,
+.contact .helpful h2,
+.contact .contact-us h2,
+.contact .helpful li,
+.contact .helpful ul li a,
+.footer .row .s-links li {
+  color: #000;
+}
+.navbar .navbar-brand span:last-child,
+.navbar-light .navbar-nav .active .nav-link,
+.navbar-light .navbar-nav .nav-link:hover,
+.featured-work .shuffle-images .row .col-lg .overlay button,
+.latest-post .row .card-body a,
+.contact .elitecorp .contact-brand span:last-child,
+.contact .elitecorp a:last-child:hover,
+.contact .helpful ul li a:hover,
+.footer .row .s-links ul li a:hover {
+  color: #666;
+}
+
+.loading-overlay {
+  background-color: #000;
+}
+.loading-overlay .spinner {
+  background-color: #fff;
+}

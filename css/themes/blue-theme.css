@@ -1,0 +1,86 @@
+/*
+ theme name: elitecorp
+ theme coder: Abdelhady
+ PSD designer:
+ first color: 19449A
+ second color: 35A0DE
+*/
+.upper-bar,
+.Pricing-Table .active .card-body button,
+.why-choose-us,
+.you-think button:hover {
+  background-color: #19449A;
+}
+
+.slider h1 span,
+.features i,
+.overview button,
+.featured-work ul .active,
+.featured-work ul li:hover,
+.testimonial a .icon:hover,
+.Pricing-Table .active .card-body div,
+.Pricing-Table .card-body button,
+.why-choose-us .text button,
+.you-think,
+.you-think button,
+.option-box i,
+.scroll-button i {
+  background-color: #35A0DE;
+}
+
+.featured-work ul li,
+.Pricing-Table .active .card-body button,
+.you-think button:hover {
+  border: 1px solid #19449A;
+}
+
+.upper-bar .get-quote,
+.overview button,
+.featured-work ul .active,
+.featured-work ul li:hover,
+.featured-work .shuffle-images .row .col-lg .overlay button,
+.Pricing-Table .card-body button,
+.why-choose-us .text button,
+.option-box .option {
+  border: 1px solid #35A0DE;
+}
+
+.testimonial a .icon:hover {
+    border: 10px solid #35A0DE;
+}
+
+.navbar .navbar-brand span:first-child,
+.navbar-light .navbar-nav .nav-link,
+.features h3,
+.featured-work ul li,
+.latest-post .row .card-body h5,
+.Pricing-Table .card-body h4,
+.Pricing-Table .card-body div,
+.achevement,
+.contact .elitecorp .contact-brand span:first-child,
+.contact .elitecorp a:last-child,
+.contact .helpful h2,
+.contact .contact-us h2,
+.contact .helpful li,
+.contact .helpful ul li a,
+.footer .row .s-links li {
+  color: #19449A;
+}
+.navbar .navbar-brand span:last-child,
+.navbar-light .navbar-nav .active .nav-link,
+.navbar-light .navbar-nav .nav-link:hover,
+.featured-work .shuffle-images .row .col-lg .overlay button,
+.latest-post .row .card-body a,
+.contact .elitecorp .contact-brand span:last-child,
+.contact .elitecorp a:last-child:hover,
+.contact .helpful ul li a:hover,
+.footer .row .s-links ul li a:hover {
+  color: #35A0DE;
+}
+
+.loading-overlay {
+  background-color: #19449A;
+}
+.loading-overlay .spinner {
+  background-color: #fff;
+}
