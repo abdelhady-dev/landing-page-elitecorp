@@ -12,15 +12,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Focal Template</h3>
+  <h3 align="center">elitecorp Template</h3>
 
   <p align="center">
     landing page web site design.
     <br />
-    <a href="https://github.com/abdelhady-dev/landing-page-focal"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/abdelhady-dev/landing-page-elitecorp"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://abdelhady-dev.github.io/landing-page-focal/">View Demo</a>
+    <a href="https://abdelhady-dev.github.io/landing-page-elitecorp/">View Demo</a>
     ·
   </p>
 </div>
@@ -52,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://abdelhady-dev.github.io/landing-page-focal/)
+[![Product Name Screen Shot][product-screenshot]](https://abdelhady-dev.github.io/landing-page-elitecorp/)
 
 This project is a landing page that responsive with desktop, tablet and mobile screens
 
@@ -82,7 +82,7 @@ This section list frameworks/libraries/languages used build my project.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/abdelhady-dev/landing-page-focal.git
+   git clone https://github.com/abdelhady-dev/landing-page-elitecorp.git
    ```
 2. open index.html
 
@@ -103,7 +103,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [Abd-Elhady Saeed](https://www.linkedin.com/in/abd-elhady-saeed-404385205/) - hadysaeed78@gmail.com
 
-Project Link: [https://github.com/abdelhady-dev/landing-page-focal.git](https://github.com/abdelhady-dev/landing-page-focal.git)
+Project Link: [https://github.com/abdelhady-dev/landing-page-elitecorp.git](https://github.com/abdelhady-dev/landing-page-elitecorp.git)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
