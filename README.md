@@ -111,4 +111,4 @@ Project Link: [https://github.com/abdelhady-dev/landing-page-elitecorp.git](http
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: images/shot.png
+[product-screenshot]: img/shot.png
