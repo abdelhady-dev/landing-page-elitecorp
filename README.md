@@ -32,11 +32,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
+      <a href="#about-the-project">About The Project</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -50,7 +46,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+# About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://abdelhady-dev.github.io/landing-page-elitecorp/)
 
@@ -76,7 +72,7 @@ This section list frameworks/libraries/languages used to build my project.
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+# Getting Started
 
 ### Installation
 
@@ -90,16 +86,10 @@ This section list frameworks/libraries/languages used to build my project.
 
 
 
-<!-- USAGE EXAMPLES -->
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
-## Contact
+# Contact
 
 Name - [Abd-Elhady Saeed](https://www.linkedin.com/in/abd-elhady-saeed-404385205/) - hadysaeed78@gmail.com
 
@@ -111,4 +101,4 @@ Project Link: [https://github.com/abdelhady-dev/landing-page-elitecorp.git](http
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: img/shot.png
+[product-screenshot]: images/shot.png
